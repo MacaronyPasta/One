@@ -1,14 +1,15 @@
 game:GetService("Players").LocalPlayer.OnTeleport:Connect(function(A, B, C)
     if A == Enum.TeleportState.InProgress then
    
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/Execconfirm'))()")          
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/Anti-AFK'))()")               
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/Execconfirm'))()") 
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTMain'))()")
+--queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/Anti-AFK'))()")  
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTDeletefiles'))()")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/GetSmallScript'))()")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/InfinityYield'))()")
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTDeletefiles'))()")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/serverHOP25minutes'))()")
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTMain'))()")
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/plsDNTScript'))()")
+--queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTMain'))()")
+--queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/plsDNTScript'))()")
 
 
 end
