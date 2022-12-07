@@ -1,0 +1,7 @@
+game:GetService("Players").LocalPlayer.OnTeleport:Connect(function(A, B, C)
+    if A == Enum.TeleportState.InProgress then
+   
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/serverHOP25minutes'))()") 
+
+end
+end)
