@@ -8,6 +8,8 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Maca
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTDeletefiles'))()")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/serverHOP25minutes'))()")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTMain'))()")
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/plsDNTScript'))()")
+
 
 end
 end)
