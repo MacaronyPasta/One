@@ -1,3 +1,5 @@
+wait(2)
+print("Main PLS Donate Script is loading...")
 wait(10)
 --Wait until game loads
 repeat
