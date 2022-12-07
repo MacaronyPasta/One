@@ -10,4 +10,4 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Maca
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/PlsDNTMain'))()")
 
 end
-end
+end)
