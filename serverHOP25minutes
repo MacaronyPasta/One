@@ -1,6 +1,6 @@
 wait(2)
 print("Server Hopping in 25 minutes")
-wait(1500)
+wait(10)
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""
