@@ -70,5 +70,7 @@ function Teleport()
     end
 end
 
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/serverHOP25minutes'))()")
+
 -- If you'd like to use a script before server hopping (Like a Automatic Chest collector you can put the Teleport() after it collected everything.
 Teleport()
