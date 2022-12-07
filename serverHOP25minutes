@@ -1,7 +1,7 @@
 wait(2)
 print("Server Hopping in 25 minutes")
 queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/MacaronyPasta/One/main/ShopMain'))()")
-wait(20)
+wait(1500)
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""
