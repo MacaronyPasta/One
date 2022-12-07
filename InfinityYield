@@ -1,5 +1,5 @@
 wait(2)
 print("Loading INF Yield")
-wait(10)
+wait(20)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 print("Infinity Yield loaded")
