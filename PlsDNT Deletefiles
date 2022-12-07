@@ -1,0 +1,22 @@
+wait(3)
+
+if game.PlaceId == 8737602449 then
+
+game.Workspace.Map.Shop:Destroy()
+game.Workspace.Map.Billboards:Destroy()
+game.Workspace.Map.Boards:Destroy()
+game.Workspace.Map.Boombox:Destroy()
+game.Workspace.Map.Decoration:Destroy()
+game.Workspace.Map.Launchpads:Destroy()
+game.Workspace.Map.Main.Bench:Destroy()
+game.Workspace.Map.Main.Fountain:Destroy()
+game.Workspace.Map.Main.Grass:Destroy()
+game.Workspace.Map.Main.Floor.Path:Destroy()
+game.Workspace.FakeRobuxNuke:Destroy()
+game.Workspace.Map.Union:Destroy()
+--game.Workspace.NukePlatform:Destroy()
+game.Workspace.Bloxikins:Destroy()
+game.Workspace.Map.Main.Floor.Rocks:Destroy()
+--game.Workspace.Blimp:Destroy()
+
+end
