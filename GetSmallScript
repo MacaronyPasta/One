@@ -1,3 +1,5 @@
+wait(2)
+print("Getting small...")
 wait(15)
 --Get Small
 --Shit ass script made by failedmite57926
