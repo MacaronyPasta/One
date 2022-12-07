@@ -1,6 +1,6 @@
+wait(2)
+print("Anti-AFK loading in 120")
 wait(120)
-print("Anti-AFK loading in 15")
-wait(14)
 
 
 local ba=Instance.new("ScreenGui")
