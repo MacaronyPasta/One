@@ -1,4 +1,6 @@
-wait(3)
+wait(2)
+print("Deleting Files...")
+wait(7)
 
 if game.PlaceId == 8737602449 then
 
